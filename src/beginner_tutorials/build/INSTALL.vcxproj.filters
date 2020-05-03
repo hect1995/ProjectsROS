@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Hector\Desktop\Projects\ROSProject\catkin_ws\src\beginner_tutorials\build\CMakeFiles\979e12dd10183af14bc5ac2ab290540d\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{85750F0D-0837-305E-9713-65D0B98C8E76}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

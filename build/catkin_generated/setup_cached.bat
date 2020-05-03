@@ -1,0 +1,15 @@
+@echo off
+REM generated from catkin/python/catkin/environment_cache.py
+
+REM based on a snapshot of the environment before and after calling the setup script
+REM it emulates the modifications of the setup script without recurring computations
+
+REM new environment variables
+
+REM modified environment variables
+set CMAKE_PREFIX_PATH=C:/Users/Hector/Desktop/Projects/ROSProject/catkin_ws/devel;%CMAKE_PREFIX_PATH%
+set LD_LIBRARY_PATH=C:/Users/Hector/Desktop/Projects/ROSProject/catkin_ws/devel\lib;C:/opt/ros/melodic/x64\lib;C:/opt/vcpkg/installed/x64-windows\lib;C:/opt/rosdeps/x64\lib
+set PATH=c:\opt\vcpkg;c:\opt\vcpkg\installed\x64-windows\bin;C:/Users/Hector/Desktop/Projects/ROSProject/catkin_ws/devel\lib;C:/opt/ros/melodic/x64\bin;C:/opt/ros/melodic/x64\lib;C:/opt/vcpkg/installed/x64-windows\bin;C:/opt/vcpkg/installed/x64-windows\lib;C:/opt/rosdeps/x64\bin;C:/opt/rosdeps/x64\lib;C:\opt\python27amd64\;C:\opt\python27amd64\Scripts;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\VCPackages;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\bin\Roslyn;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools\x64;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\\x64;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\;C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x64;C:\Program Files (x86)\Windows Kits\10\bin\x64;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\Hector\AppData\Local\Microsoft\WindowsApps;C:\libjpeg-turbo64\bin;C:\Program Files\Mercurial\;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja
+set PKG_CONFIG_PATH=C:/Users/Hector/Desktop/Projects/ROSProject/catkin_ws/devel\lib\pkgconfig;%PKG_CONFIG_PATH%
+set PYTHONPATH=C:/Users/Hector/Desktop/Projects/ROSProject/catkin_ws/devel\lib/site-packages;%PYTHONPATH%
+set ROS_PACKAGE_PATH=C:/Users/Hector/Desktop/Projects/ROSProject/catkin_ws/src;%ROS_PACKAGE_PATH%

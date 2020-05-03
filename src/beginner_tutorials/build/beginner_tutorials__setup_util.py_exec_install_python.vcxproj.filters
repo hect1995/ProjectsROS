@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Hector\Desktop\Projects\ROSProject\catkin_ws\src\beginner_tutorials\build\catkin_generated\add_python_executable\beginner_tutorials__setup_util.py_exec_install_python\_setup_util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Hector\Desktop\Projects\ROSProject\catkin_ws\src\beginner_tutorials\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{80ACCE42-5766-388C-A698-A9305E6B89F5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
